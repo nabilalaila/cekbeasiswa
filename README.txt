@@ -1,1 +1,0 @@
-Cek Beasiswa merupakan website yang menyediakan informasi lengkap beasiswa baik dalam negeri maupun luar negeri. Website ini memiliki halaman dashboard, beasiswa, dan profile. Projek dikembangkan menggunakan laravel dan Bootstrap
